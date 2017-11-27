@@ -8,7 +8,9 @@ Aim(s):
 
   -the beginning is meant to be as 'Vanilla' as possible ('Vanilla' in a property way), so the player can't use basic magic,
    teleportation, even energy production won't be unlocked until they defeat the Ender Dragon.
+   
   -there will be no mod that changes worldgen (to create a map preview in an online app like Mineatlas or Chunkbase)
+  
   -every implemented era can be play on its own
 
 
