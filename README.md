@@ -12,6 +12,7 @@ Aim(s):
   -there will be no mod that changes worldgen (to create a map preview in an online app like Mineatlas or Chunkbase)
   
   -every implemented era can be play on its own
+  
 
 
 
