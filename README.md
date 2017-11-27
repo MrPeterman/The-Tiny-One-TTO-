@@ -15,9 +15,6 @@ Aim(s):
 
 
 
-
-
-
 The plan for this modpack is
   1. keeping a low number of mods included (currently: about 105 mods) (progression: 95%)
   
