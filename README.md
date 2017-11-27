@@ -18,8 +18,7 @@ Aim(s):
 The plan for this modpack is
   1. keeping a low number of mods included (currently: about 105 mods) (progression: 95%)
   2. inweaving the mods in a semi-realistic/reasonable way, to create dependencies among all mods. This will included
-  2.1 establishing a era system. Every era will be dedicated to a certain theme which can work at its own as a whole modpack, beginning
-      with a Vanilla-Plus-like to the final AE2/Extreme Reactors collection. (script progression: 45%)
+  2.1 establishing a era system. Every era will be dedicated to a certain theme which can work at its own as a whole modpack, beginning with a Vanilla-Plus-like to the final AE2/Extreme Reactors collection. (script progression: 45%)
   2.2 changing disabled items to use them as new crafting materials (only idea, progression: 0%)
   2.3 adding the recipes/functionality via Crafttweaker and config changes (progression: 15% (pessimistic))
   3. (optional) adding a quest book and enriching the quest with lore (especially for magic mods) (progression: -%)
