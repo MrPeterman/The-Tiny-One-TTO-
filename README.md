@@ -6,12 +6,12 @@ This is my attempt to create a realistic modpack (or hardcore, as you put it) fo
 
 Aim(s):
 
-  -the beginning is meant to be as 'Vanilla' as possible ('Vanilla' in a property way), so the player can't use basic magic,
+  -the beginning is meant to be as 'Vanilla' as possible, so the player can't use basic magic,
    teleportation, even energy production won't be unlocked until they defeat the Ender Dragon.
    
   -there will be no mod that changes worldgen (to create a map preview in an online app like Mineatlas or Chunkbase)
   
-  -every implemented era can be play on its own
+  -every implemented era can be played on its own
   
 
 
@@ -19,11 +19,11 @@ Aim(s):
 The plan for this modpack is
   1. keeping a low number of mods included (currently: about 105 mods) (progression: 95%)
   
-  2. inweaving the mods in a semi-realistic/reasonable way, to create dependencies among all mods. 
-  This will included
+  2. interweaving the mods in a semi-realistic/reasonable way, to create dependencies among all mods. 
+  This will include
   
-    2.1 establishing a era system. Every era will be dedicated to a certain theme which can work at its own as a whole 
-    modpack, beginning with a Vanilla-Plus-like to the final AE2/Extreme Reactors collection. (script progression: 45%)
+    2.1 establishing a system of eras. Every era will be dedicated to a certain theme which can work on its own as a whole 
+    modpack, beginning with a Vanilla-Plus-like feel to the final AE2/Extreme Reactors collection. (script progression: 45%)
     
     2.2 changing disabled items to use them as new crafting materials (only idea, progression: 0%)
     
